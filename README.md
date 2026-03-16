@@ -24,10 +24,14 @@ A comprehensive suite of AI-powered tools designed for content creators, markete
 - **Admin Dashboard**: Comprehensive admin panel
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## 🏗️ Tech Stack
 =======
 ## 🛠 Tech Stack
 >>>>>>> main
+=======
+## 🛠 Tech Stack
+>>>>>>> 789f8908095d1f8ea9488f05fde1deb6872f2d1a
 
 ### Backend
 - **FastAPI**: Modern Python web framework
