@@ -23,15 +23,7 @@ A comprehensive suite of AI-powered tools designed for content creators, markete
 - **Profile Management**: Manage your account settings
 - **Admin Dashboard**: Comprehensive admin panel
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-## 🏗️ Tech Stack
-=======
 ## 🛠 Tech Stack
->>>>>>> main
-=======
-## 🛠 Tech Stack
->>>>>>> 789f8908095d1f8ea9488f05fde1deb6872f2d1a
 
 ### Backend
 - **FastAPI**: Modern Python web framework
@@ -63,8 +55,8 @@ A comprehensive suite of AI-powered tools designed for content creators, markete
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd NXTGENAI-main
+git clone https://github.com/AhsanEjaz420/Next-Gen-AI.git
+cd backend
 ```
 
 2. Create virtual environment
@@ -98,7 +90,7 @@ uvicorn app.main:app --reload
 
 1. Navigate to frontend directory
 ```bash
-cd NXTGENAI-Tools-main/frontend
+cd frontend
 ```
 
 2. Install dependencies
@@ -135,12 +127,9 @@ FRONTEND_URL=http://localhost:5173
 
 Check out the screen recording to see the platform in action:
 
-<video width="800" controls autoplay muted>
-  <source src="Screen Recording 2026-03-16 140813_compressed.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the demo video](Screen Recording 2026-03-16 140813_compressed.mp4)](Screen Recording 2026-03-16 140813_compressed.mp4)
 
-*Download the original video: [Screen Recording 2026-03-16 140813.mp4](Screen%20Recording%202026-03-16%20140813.mp4)*
+*Download the compressed video: [Screen Recording 2026-03-16 140813_compressed.mp4](Screen%20Recording%202026-03-16%20140813_compressed.mp4)*
 
 ## 🤝 Contributing
 
