@@ -23,7 +23,11 @@ A comprehensive suite of AI-powered tools designed for content creators, markete
 - **Profile Management**: Manage your account settings
 - **Admin Dashboard**: Comprehensive admin panel
 
+<<<<<<< HEAD
 ## 🏗️ Tech Stack
+=======
+## 🛠 Tech Stack
+>>>>>>> main
 
 ### Backend
 - **FastAPI**: Modern Python web framework
@@ -125,16 +129,14 @@ FRONTEND_URL=http://localhost:5173
 
 ## 🎥 Demo
 
-Watch the platform in action:
+Check out the screen recording to see the platform in action:
 
-<div align="center">
-  <video width="800" controls autoplay muted>
-    <source src="demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+<video width="800" controls autoplay muted>
+  <source src="Screen Recording 2026-03-16 140813_compressed.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-*Click the play button to see the full demonstration*
+*Download the original video: [Screen Recording 2026-03-16 140813.mp4](Screen%20Recording%202026-03-16%20140813.mp4)*
 
 ## 🤝 Contributing
 
