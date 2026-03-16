@@ -127,8 +127,8 @@ FRONTEND_URL=http://localhost:5173
 
 Check out the screen recording to see the platform in action:
 
-<video width="800" controls>
-  <source src="Screen%20Recording%202026-03-16%20140813_compressed.mp4" type="video/mp4">
+<video width="800" controls autoplay muted>
+  <source src="Screen Recording 2026-03-16 140813_compressed.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
