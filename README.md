@@ -127,7 +127,42 @@ FRONTEND_URL=http://localhost:5173
 
 Check out the screen recording to see the platform in action:
 
-[![Watch the demo video](Screen Recording 2026-03-16 140813_compressed.mp4)](Screen Recording 2026-03-16 140813_compressed.mp4)
+<div align="center">
+  <a href="https://raw.githubusercontent.com/AhsanEjaz420/Next-Gen-AI/master/Screen%20Recording%202026-03-16%20140813_compressed.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/📹-Watch%20Demo%20Video-red" alt="Watch Demo Video">
+  </a>
+</div>
+
+### 🎬 Interactive Video Player
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/AhsanEjaz420/Next-Gen-AI/master/Screen%20Recording%202026-03-16%20140813_compressed.mp4" target="_blank">
+        <img src="https://img.shields.io/badge/▶️-Click%20to%20Play-blue?style=for-the-badge" alt="Play Video" width="300"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <sub>📹 Click the play button above to watch the demo</sub>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary>🔧 Alternative viewing options</summary>
+
+**Direct URL:** [Open Video in New Tab](https://raw.githubusercontent.com/AhsanEjaz420/Next-Gen-AI/master/Screen%20Recording%202026-03-16%20140813_compressed.mp4)
+
+**Manual URL:**
+```
+https://raw.githubusercontent.com/AhsanEjaz420/Next-Gen-AI/master/Screen%20Recording%202026-03-16%20140813_compressed.mp4
+```
+
+**Download:** [Save Video Locally](Screen%20Recording%202026-03-16%20140813_compressed.mp4)
+
+</details>
 
 *Download the compressed video: [Screen Recording 2026-03-16 140813_compressed.mp4](Screen%20Recording%202026-03-16%20140813_compressed.mp4)*
 
