@@ -125,8 +125,16 @@ FRONTEND_URL=http://localhost:5173
 
 ## 🎥 Demo
 
-Check out the screen recording to see the platform in action:
-- [Screen Recording 2026-03-16 140813.mp4](Screen%20Recording%202026-03-16%20140813.mp4)
+Watch the platform in action:
+
+<div align="center">
+  <video width="800" controls autoplay muted>
+    <source src="demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+*Click the play button to see the full demonstration*
 
 ## 🤝 Contributing
 
